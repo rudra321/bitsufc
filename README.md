@@ -51,3 +51,6 @@ This command will start a development server, and you can view the website local
 ## Usage
 
 5. **View the Website**: Open your web browser and visit `http://localhost:3000` to view the website.
+## Usage
+
+6. **View the Website**: My deployed website `https://bitsufc.netlify.app`
