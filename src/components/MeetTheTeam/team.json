@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Aditya",
+        "position": "Handler/Captain'19",
+        "image": "src/assets/bitsufc.jpg",
+        "batchYear":"2019"
+    },
+    {
+        "id": 2,
+        "name": "KD",
+        "position": "Cutter",
+        "image": "src/assets/bitsufc.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Kanishk",
+        "position": "Handler/Cutter/Captain",
+        "image": "src/assets/bitsufc.jpg","batchYear":"2017"
+    },
+    {
+        "id": 4,
+        "name": "DV",
+        "position": "Handler",
+        "image": "src/assets/bitsufc.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Singh",
+        "position": "Handler/Cutter/Coordinator",
+        "image": "src/assets/bitsufc.jpg","batchYear":"2019"
+    },
+    {
+        "id": 9,
+        "name": "Milind",
+        "position": "Cutter/Handler",
+        "image": "src/assets/bitsufc.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Harsha",
+        "position": "Cutter",
+        "image": "src/assets/bitsufc.jpg","batchYear":"2019"
+    },
+    {
+        "id": 7,
+        "name": "Svadhi",
+        "position": "Cutter",
+        "image": "src/assets/bitsufc.jpg","batchYear":"2019"
+    },
+    {
+        "id": 8,
+        "name": "Mili",
+        "position": "Cutter/Handler",
+        "image": "src/assets/bitsufc.jpg"
+    },{
+        "id":10,
+        "name": "Anagh",
+        "position": "Cutter/Handler",
+        "image": "src/assets/bitsufc.jpg","batchYear":"2018"
+    }
+]

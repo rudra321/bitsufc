@@ -1,0 +1,75 @@
+.section {
+    background-color: #eaeaea;
+    border-radius: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.meaning-section:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.section:hover .heading {
+    color: darkslateblue;
+}
+
+.heading {
+    margin-bottom: 20px;
+    transition: color 0.3s;
+}
+
+.song-meaning {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.meaning-section {
+    flex: 0 0 calc(50% - 20px);
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.meaning-section h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: darkslateblue;
+}
+
+.meaning-section p {
+    margin: 0;
+    color: #666;
+}
+
+.btn-game{
+    background-color: darkslateblue; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-game:hover{
+    color: #30264F;
+  }
+  .watch-vdo-btn-box{
+    display: flex;
+    justify-content: center;
+  }
+@media screen and (max-width: 768px) {
+    .section{
+        text-align: left;
+    }
+}
